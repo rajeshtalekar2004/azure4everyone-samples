@@ -1,3 +1,4 @@
+# youtubelink https://www.youtube.com/watch?v=T7XU6Lz8lJw
 group=azure-load-balancer-introduction
 az group create -g $group -l northeurope
 username=adminuser
